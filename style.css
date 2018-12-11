@@ -15,9 +15,9 @@ body{
   font-family: 'Century Gothic',sans-serif;
 }
 .boximg{
-  border-radius: 50%;
-  width: 200px;
-  height: 200px;
+  border-radius: 70%;
+  width: 400px;
+  height: 400px;
 }
 .box h1{
   font-size: 40px;
